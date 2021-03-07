@@ -14,7 +14,7 @@
   <name>Tooling :: Libs :: Test runner</name>
 
   <properties>
-    <maven-invoker.version>3.0.1</maven-invoker.version>
+    <maven-invoker.version>3.1.0</maven-invoker.version>
   </properties>
 
   <dependencies>
